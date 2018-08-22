@@ -1,0 +1,14 @@
+http://www.foodyum.com
+http://www.foodyum.com/admin
+http://www.foodyum.com/signup
+http://www.foodyum.com/login
+http://www.foodyum.com/resetpassword
+http://www.foodyum.com/menu
+http://www.foodyum.com/cart
+http://www.foodyum.com/profile
+http://www.foodyum.com/dashboard
+http://www.foodyum.com/menu/burgrill
+http://www.foodyum.com/menu/chainagri
+http://www.foodyum.com/menu/havmor
+http://www.foodyum.com/menu/lapinoz
+http://www.foodyum.com/payment
